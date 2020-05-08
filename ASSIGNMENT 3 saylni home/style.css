@@ -1,0 +1,179 @@
+
+
+html{
+    scroll-behavior: smooth;
+}
+.class-buttons a {
+    padding: 1px;
+}
+.text-size  {
+    font-size: 15px;
+}
+.span{
+    font-weight: bold;
+}
+
+.img{
+    margin: 7px;
+}
+.img1{
+    width: 200px;
+    height:  70px;
+    margin: 12px;
+}
+
+.menu-bar ul li a{
+padding: 8px ;
+text-decoration: none;
+}
+.menu-bar ul li{
+    display: inline-block;
+    padding-top: 30px ;
+    
+}
+
+.menu-full{
+    background-color: #f5f5f5;
+}
+.menu-bar a:hover{
+    border-radius: 17px;
+    background-color: #3393ec;
+    color: #ffffff;
+    
+}
+.home-1 , home-1:hover{
+    background-color: #3393ec;
+    color: #ffffff;
+    border-radius: 17px;
+    
+}
+
+.paragraph{
+    background-color:  #3393ec;
+    color: white;
+}
+.span-1{
+    color: rgb(89, 219, 89);
+}
+
+.span-2{
+    color:blue;
+}
+
+.span-3{
+    color:rgb(45, 113, 214);
+    font-weight: bold;
+    font-size: 32px;
+}
+
+
+.span-4{
+    color:rgb(82, 245, 41);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.intro {
+    font-size: 28px;
+    
+}
+
+.head-1{
+    font-size: 18px;
+    padding: 13px ;
+    font-weight: bold;
+    color: white;
+}
+.span-5{
+    font-size: 25px;
+}
+
+.span-6{
+    font-size: 20px;
+    color:rgb(82, 245, 41);
+
+}
+.menu-new{
+    background-color:#ffffff;
+    
+}
+
+.box-1{
+    
+    margin-left: 40px;
+   
+    
+    
+}
+.box-2{
+box-shadow: 2px 2px 2px 2px;
+padding-top: 15px;
+
+}
+
+.span-7{
+width: 50px;
+height: 3px;
+background-color: #008000;
+display: block;
+margin-left: 11px;
+
+}
+.say{
+    width: 190px;
+    height:120px ;
+}
+
+.menu-old{
+  background-color:  rgb(37, 39, 46); 
+}
+.span-8{
+    color: white;
+}
+
+.span-9{
+    color: white;
+    font-weight: bold;
+}
+
+.image1{
+    margin-right: 29px;
+    
+    
+}
+.top{
+    width: 50px;
+    height: 40px;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    opacity: 0.5;
+    display: block;
+}    
+
+.span-10{
+   padding-left: 09px;
+}
+
+.span-11{
+    width: 280px;
+    height: 2px;
+    background-color: #808080;
+    display: block;
+    margin-left: 11px;
+    }
+.span-12{
+    width: 50px;
+height: 3px;
+background-color: #008000;
+display: block;
+
+
+margin-left: 11px;
+}
+
+
+.imgg{
+    margin: 5px;
+}
